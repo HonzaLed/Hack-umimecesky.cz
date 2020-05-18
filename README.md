@@ -12,6 +12,8 @@ Popis:
 Když spustíte(respektive když kliknete na) kód 1, script udělá to, že každé 2 sekundy klikne na správnou odpověď
 Když spustíte(respekive když kliknete na) kód 2, klikání se zastaví
 
+Odkaz na ukázku a přidání do záložek: https://honzaled.github.io/crackv23.html
+
 
 ----------Verze 2.1----------
 
@@ -20,6 +22,8 @@ Kód:javascript: $(".option"+questions[questionOffset].options[1].correct).trigg
 
 Popis:
 Když spustíte(respektive kliknete na) kód, script klikne jednou na správnou odpověď(Stejná funkce jako verze 2.0 ale kód je kratší a nenačítá scripty v webovek třetích stran)
+
+Odkaz na ukázku a přidání do záložek: https://honzaled.github.io/crackv21.html
 
 
 ----------Verze 2.0----------
