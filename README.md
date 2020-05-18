@@ -5,6 +5,7 @@ Crack na rozhodovačky na webu umímečesky.cz
 ----------Verze 2.3----------
 
 Kód 1:javascript:var a = setInterval(function(){$(".option"+questions[questionOffset].options[1].correct).trigger("click")}, 2000)
+
 Kód 2:javascript:clearInterval(a);
 
 Popis:
